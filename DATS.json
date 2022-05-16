@@ -1,0 +1,98 @@
+{
+    "identifier": {
+        "identifier": "https://doi.org/10.5281/zenodo.6463434",
+        "identifierSource": "DOI"
+    },
+    "title": "An interactive meta-analysis of MRI biomarkers of myelin",
+    "creators": [
+        {
+            "name": "Matteo Mancini"
+        },
+        {
+            "name": "Agah Karakuzu"
+        },
+        {
+            "name": "Julien Cohen-Adad"
+        },
+        {
+            "name": "Mara Cercignani"
+        },
+        {
+            "name": "Thomas Nichols"
+        },
+        {
+            "name": "Nikola Stikov"
+        }
+    ],
+    "description": "Dataset provided for NeuroLibre preprint.\nAuthor repo: https://github.com/Notebook-Factory/myelin-meta-analysis\nNeuroLibre fork:https://github.com/roboneurolibre/myelin-meta-analysis<p>For details, please visit the corresponding <a href=\"https://github.com/neurolibre/neurolibre-reviews/issues/4\">NeuroLibre technical screening.</a></p>\n<p><strong><a href=\"https://neurolibre.org\">https://neurolibre.org</a></strong></p>",
+    "version": "None",
+    "licenses": [
+        {
+            "name": "CC0-1.0"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        },
+        {
+            "value": "neurolibre"
+        }
+    ],
+    "distributions": [
+        {
+            "formats": [
+                "ZIP"
+            ],
+            "size": 45.1,
+            "unit": {
+                "value": "kB"
+            },
+            "access": {
+                "landingPage": "https://zenodo.org/record/6463435",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "4"
+                }
+            ]
+        }
+    ],
+    "dates": [
+        {
+            "date": "2022-04-17 20:20:19",
+            "type": {
+                "value": "date created"
+            }
+        },
+        {
+            "date": "2022-04-18 01:49:29",
+            "type": {
+                "value": "date modified"
+            }
+        }
+    ],
+    "types": [
+        {
+            "value": "unknown"
+        }
+    ]
+}
